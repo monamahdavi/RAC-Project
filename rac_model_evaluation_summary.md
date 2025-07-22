@@ -31,20 +31,6 @@ This subset contains 200 records from the original DBpedia dataset, covering 116
 
 ---
 
-### ⚠️ Sklearn Warning
-Some warnings such as:
-
-```
-UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples.
-```
-
-occur because some categories in the test set were never predicted. To handle this, we used:
-```python
-precision_score(..., zero_division=0)
-```
-
----
-
 ### ✅ Conclusion
 
 - RAC significantly improves classification quality over both KNN and zero-shot LLM.
