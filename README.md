@@ -98,6 +98,5 @@ The task is to **predict the correct category** for each text.
 ```bash
 git clone https://github.com/monamahdavi/RAC-Project
 cd RAC-Project
-pip install -r requirements.txt
 python main.py
 
