@@ -98,5 +98,5 @@ The task is to **predict the correct category** for each text.
 ```bash
 git clone https://github.com/monamahdavi/RAC-Project
 cd RAC-Project
-python main.py
+python LLM.py
 
