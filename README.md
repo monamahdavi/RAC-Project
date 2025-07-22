@@ -100,3 +100,6 @@ git clone https://github.com/monamahdavi/RAC-Project
 cd RAC-Project
 python LLM.py
 
+## 📁 Sources:
+https://towardsdatascience.com/retrieval-augmented-classification-improving-text-classification-with-external-knowledge/
+
