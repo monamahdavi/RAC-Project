@@ -11,7 +11,7 @@ This project demonstrates a comparative approach to **text classification** usin
 
 ## 📁 Dataset
 
-You start with a dataset (`.csv`) that contains:
+Start with a dataset (`.csv`) that contains:
 - **Text samples**
 - **Their corresponding categories**
 
