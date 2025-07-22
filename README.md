@@ -91,6 +91,9 @@ The task is to **predict the correct category** for each text.
 - `pandas`, `scikit-learn`, `transformers`, `torch`
 - `chromadb`, `langchain`, `tqdm`
 
+- 📁 Sources:
+https://towardsdatascience.com/retrieval-augmented-classification-improving-text-classification-with-external-knowledge/
+
 ---
 
 ## 🚀 Run the Project
@@ -99,7 +102,3 @@ The task is to **predict the correct category** for each text.
 git clone https://github.com/monamahdavi/RAC-Project
 cd RAC-Project
 python LLM.py
-
-## 📁 Sources:
-https://towardsdatascience.com/retrieval-augmented-classification-improving-text-classification-with-external-knowledge/
-
